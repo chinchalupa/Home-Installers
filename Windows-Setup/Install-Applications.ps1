@@ -20,7 +20,7 @@ function Update-Applications {
     )
 
     $BaseTools = 'geforce-game-ready-driver', 'firefox', 'googlechrome', '7zip', 'slack'
-    $DeveloperTools = 'vim', 'git', 'notepadplusplus', 'openssh', 'putty', 'vscode', 'autohotkey.portable', 'sourcetree', 'poshgit'
+    $DeveloperTools = 'vim', 'git', 'notepadplusplus', 'openssh', 'putty', 'vscode', 'autohotkey.portable', 'sourcetree', 'poshgit', 'anaconda3', 'nteract'
     $CryptoTools = 'electrum', 'gpg4win'
     $LanguageTools = 'python', 'rust'
     $MediaTools = 'vlc'
