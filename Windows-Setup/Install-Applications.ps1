@@ -5,7 +5,7 @@ function Update-Applications {
         [string]
         $Action,
 
-        [ValidateSet('BaseTools', 'DeveloperTools', 'CryptoTools', 'LanguageTools', 'MediaTools', 'WindowsTools', 'AmazonTools', 'GamingTools')]
+        [ValidateSet('BaseTools', 'DeveloperTools', 'CryptoTools', 'LanguageTools', 'MediaTools', 'WindowsTools', 'AmazonTools', 'GamingTools', 'PaintTools')]
         [string[]]
         $ToolSuites,
 
@@ -27,6 +27,7 @@ function Update-Applications {
     $WindowsTools = 'dotnetcore-sdk', 'azure-cli'
     $AmazonTools = 'awscli'
     $GamingTools = 'steam'
+    $PaintTools = 'gimp'
 
     # Install Suites
     $packages = @()
