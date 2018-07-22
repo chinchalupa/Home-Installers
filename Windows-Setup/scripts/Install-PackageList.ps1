@@ -1,0 +1,1 @@
+choco Install (Get-Item ..\packages.config).FullName -y
