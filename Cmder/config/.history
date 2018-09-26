@@ -1,0 +1,23 @@
+ls
+get-help ls
+2:
+get-help ls
+2:
+cd S:\Sourcecode\Shared\
+cd S:\Sourcecode\
+ls
+cd S
+cd S:
+cd S:\Sourcecode\
+cd S
+git status
+cd S:\Sourcecode\invariant
+ls
+cd S:
+set-item S:
+cd Downloads\
+ls
+cd Downloads\
+ls
+cd S:\Sourcecode\
+ls
